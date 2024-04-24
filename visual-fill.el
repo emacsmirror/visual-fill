@@ -1,9 +1,9 @@
 ;;; visual-fill.el --- Auto-refill paragraphs without modifying the buffer  -*- lexical-binding: t; -*-
 
-;; Copyright (C) 2018  Free Software Foundation, Inc.
+;; Copyright (C) 2018-2024  Free Software Foundation, Inc.
 
 ;; Author: Stefan Monnier <monnier@iro.umontreal.ca>
-;; Version: 0.1
+;; Version: 0.2
 ;; Keywords: 
 
 ;; This program is free software; you can redistribute it and/or modify
@@ -28,6 +28,11 @@
 ;;
 ;; For best effect, combine it with `visual-line-mode' and
 ;; `adaptive-wrap-prefix-mode'.
+
+;;; News:
+
+;; Since v0.1:
+;; - Fix copyright.
 
 ;;; Code:
 
